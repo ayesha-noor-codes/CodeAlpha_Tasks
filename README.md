@@ -23,11 +23,11 @@ This Network Sniffer captures and analyzes live network packets with extra funct
 - `suspicious_packets.txt` – log of suspicious packets with payload
 
 ###  Requirements
-```bash
+bash
 pip install scapy termcolor requests
  Note: Run with sudo for full packet sniffing access.
 
-**▶ How to Run**
+# **▶ How to Run**
 sudo python3 packet_sniffer.py
 
  Input Options
