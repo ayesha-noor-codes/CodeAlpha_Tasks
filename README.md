@@ -43,6 +43,7 @@ sudo python3 packet_sniffer.py
 ### Objective
 
 To create a phishing awareness presentation that:
+
 	```•	Educates users about phishing and its types```
  
 	•	Shares detection techniques
