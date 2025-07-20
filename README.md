@@ -22,14 +22,13 @@ This Network Sniffer captures and analyzes live network packets with extra funct
 - `all_sniffed_packets.csv` – log of all captured packets
 - `suspicious_packets.txt` – log of suspicious packets with payload
 
-Here is your provided text formatted properly in GitHub README.md markdown style using #, -, and • where appropriate:
-
 # Requirements
 
 ```bash
-pip install scapy termcolor requests
+pip install scapy termcolor requests```
 
-Note: Run with sudo for full packet sniffing access.
+
+#Note: Run with sudo for full packet sniffing access.
 
 ⸻
 
@@ -37,18 +36,11 @@ Note: Run with sudo for full packet sniffing access.
 
 sudo python3 packet_sniffer.py
 
-
-⸻
-
-#Input Options
-	•	Select payload view mode (short / full / hex / ascii)
-	•	Choose a protocol filter (tcp / udp / icmp / all)
-
 ⸻
 
 ###Task 2: Phishing Awareness Training
 
-🎯 Objective
+# Objective
 
 To create a phishing awareness presentation that:
 	•	Educates users about phishing and its types
@@ -58,14 +50,7 @@ To create a phishing awareness presentation that:
 
 ⸻
 
-📁 Files Included
-	•	Phishing_Awareness_Slides.pdf: Main presentation
-	•	phishing_infographics/: Folder of all infographics and slide images
-	•	README.md: Documentation of both tasks
-
-⸻
-
-📌 Key Topics Covered
+# Key Topics Covered
 	•	What is Phishing?
 	•	Types of Phishing Attacks
 	•	How to Identify a Phishing Attempt
@@ -74,4 +59,3 @@ To create a phishing awareness presentation that:
 	•	Real-World Example
 	•	Conclusion
 
-Let me know if you want this content saved in a `.md` file or if you’d like to add links, credits, or a header section.
