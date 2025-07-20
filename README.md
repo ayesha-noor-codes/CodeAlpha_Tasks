@@ -17,30 +17,32 @@ This Network Sniffer captures and analyzes live network packets with extra funct
   - Suspicious packets → `suspicious_packets.txt`
 - Suspicious activity detection (DoS-like behavior)
 
-### 📁 Files
+### Files
 - `packet_sniffer.py` – main script
 - `all_sniffed_packets.csv` – log of all captured packets
 - `suspicious_packets.txt` – log of suspicious packets with payload
 
-# Requirements
-
-```bash
-pip install scapy termcolor requests```
-
-
-#Note: Run with sudo for full packet sniffing access.
 
 ⸻
 
-#▶ How to Run
+Requirements
+
+pip install scapy termcolor requests
+
+Note: Run with sudo for full packet sniffing access.
+
+⸻
+
+▶ How to Run
 
 sudo python3 packet_sniffer.py
 
+
 ⸻
 
-###Task 2: Phishing Awareness Training
+Task 2: Phishing Awareness Training
 
-# Objective
+🎯 Objective
 
 To create a phishing awareness presentation that:
 	•	Educates users about phishing and its types
@@ -50,7 +52,7 @@ To create a phishing awareness presentation that:
 
 ⸻
 
-# Key Topics Covered
+📌 Key Topics Covered
 	•	What is Phishing?
 	•	Types of Phishing Attacks
 	•	How to Identify a Phishing Attempt
@@ -59,3 +61,6 @@ To create a phishing awareness presentation that:
 	•	Real-World Example
 	•	Conclusion
 
+⸻
+
+Let me know if you want this merged into a full README with Task 1 too!
