@@ -25,24 +25,22 @@ This Network Sniffer captures and analyzes live network packets with extra funct
 
 ⸻
 
-Requirements
+###Requirements
 
-pip install scapy termcolor requests
+```pip install scapy termcolor requests```
 
 Note: Run with sudo for full packet sniffing access.
 
-⸻
 
-# ▶ How to Run
+### ▶ How to Run
 
 sudo python3 packet_sniffer.py
 
 
-⸻
 
-Task 2: Phishing Awareness Training
+# Task 2: Phishing Awareness Training
 
-# Objective
+### Objective
 
 To create a phishing awareness presentation that:
 	•	Educates users about phishing and its types
@@ -50,9 +48,8 @@ To create a phishing awareness presentation that:
 	•	Provides safety best practices
 	•	Includes real-world examples
 
-⸻
 
-# Key Topics Covered
+###Key Topics Covered
 	•	What is Phishing?
 	•	Types of Phishing Attacks
 	•	How to Identify a Phishing Attempt
