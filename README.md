@@ -22,38 +22,38 @@ This Network Sniffer captures and analyzes live network packets with extra funct
 - `all_sniffed_packets.csv` – log of all captured packets
 - `suspicious_packets.txt` – log of suspicious packets with payload
 
-###  Requirements
+#  Requirements
 bash
 pip install scapy termcolor requests
  Note: Run with sudo for full packet sniffing access.
 
-# **▶ How to Run**
+# ▶ **How to Run**
 sudo python3 packet_sniffer.py
 
  Input Options
-	•	Select payload view mode (short/full/hex/ascii)
-	•	Choose a protocol filter (tcp/udp/icmp/all)
+-	•	Select payload view mode (short/full/hex/ascii)
+-	•	Choose a protocol filter (tcp/udp/icmp/all)
 
-**Task 2: Phishing Awareness Training**
+###**Task 2: Phishing Awareness Training**
 
 **Objective**
 
-To create a phishing awareness presentation that:
-	•	Educates users about phishing and its types
-	•	Shares detection techniques
-	•	Provides safety best practices
-	•	Includes real-world examples
+-To create a phishing awareness presentation that:
+-	•	Educates users about phishing and its types
+-	•	Shares detection techniques
+-	•	Provides safety best practices
+-	•	Includes real-world examples
 
- Files Included
-	•	Phishing_Awareness_Slides.pdf: Main presentation
-	•	phishing_infographics/: Folder of all infographics and slide images
-	•	README.md: Documentation of both tasks
-
- Key Topics Covered
-	1.	What is Phishing?
-	2.	Types of Phishing Attacks
-	3.	How to Identify a Phishing Attempt
-	4.	Social Engineering Tactics
+- Files Included
+-	•	Phishing_Awareness_Slides.pdf: Main presentation
+-	•	phishing_infographics/: Folder of all infographics and slide images
+-	•	README.md: Documentation of both tasks
+-
+- Key Topics Covered
+-	1.	What is Phishing?
+-	2.	Types of Phishing Attacks
+-	3.	How to Identify a Phishing Attempt
+-	4.	Social Engineering Tactics
 	5.	Prevention Best Practices
 	6.	Real-World Example
 	7.	Conclusion
