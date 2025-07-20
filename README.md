@@ -33,7 +33,7 @@ Note: Run with sudo for full packet sniffing access.
 
 ⸻
 
-▶ How to Run
+# ▶ How to Run
 
 sudo python3 packet_sniffer.py
 
@@ -42,7 +42,7 @@ sudo python3 packet_sniffer.py
 
 Task 2: Phishing Awareness Training
 
-🎯 Objective
+# Objective
 
 To create a phishing awareness presentation that:
 	•	Educates users about phishing and its types
@@ -52,7 +52,7 @@ To create a phishing awareness presentation that:
 
 ⸻
 
-📌 Key Topics Covered
+# Key Topics Covered
 	•	What is Phishing?
 	•	Types of Phishing Attacks
 	•	How to Identify a Phishing Attempt
@@ -60,7 +60,3 @@ To create a phishing awareness presentation that:
 	•	Prevention Best Practices
 	•	Real-World Example
 	•	Conclusion
-
-⸻
-
-Let me know if you want this merged into a full README with Task 1 too!
