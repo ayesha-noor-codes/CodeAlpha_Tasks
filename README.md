@@ -44,7 +44,7 @@ sudo python3 packet_sniffer.py
 
 To create a phishing awareness presentation that:
 
-	```•	Educates users about phishing and its types```
+	•	Educates users about phishing and its types
  
 	•	Shares detection techniques
  
